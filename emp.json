@@ -1,0 +1,5 @@
+{"_id":{"$oid":"682d5638de19183084c59f35"},"name":"Logesh","details":{"position":"Java Developer","salary":45000}}
+{"_id":{"$oid":"682d57c8de19183084c59f36"},"name":"Rajesh","details":{"position":"PHP Developer","salary":30000}}
+{"_id":{"$oid":"682d57c8de19183084c59f37"},"name":"kumar","details":{"position":"Java Developer","salary":45000}}
+{"_id":{"$oid":"682d57c8de19183084c59f38"},"name":"Daniel","details":{"position":"DevOps","salary":40000}}
+{"_id":{"$oid":"682d5f36145a5ebed45c7406"},"name":"Raja","city":"Bengaluru","mob_no":9876598765}
