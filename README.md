@@ -12,7 +12,7 @@ This template equips you with a foundational Vue application integrated with AWS
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
-## Deploying to AWS
+fjgjgjgjgjg
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/vue/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
 
@@ -21,6 +21,6 @@ For detailed instructions on deploying your application, refer to the [deploymen
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
+jfjfjfjjf
 
-This library is licensed under the MIT-0 License. See the LICENSE file.......
+this line has been changed
